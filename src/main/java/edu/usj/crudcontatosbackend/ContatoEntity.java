@@ -22,4 +22,5 @@ public class ContatoEntity {
     String nome;
     String tipo;
     String telefone;
+    String email;
 }
